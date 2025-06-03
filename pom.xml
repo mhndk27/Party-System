@@ -36,11 +36,6 @@
             <scope>provided</scope>
         </dependency>
 
-        <dependency>
-            <groupId>com.mhndk27</groupId>
-            <artifactId>servercore</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
     </dependencies>
 
 </project>
